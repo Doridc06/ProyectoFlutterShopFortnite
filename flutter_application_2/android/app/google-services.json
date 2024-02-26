@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "115743573840",
+    "project_id": "dori-e3acb",
+    "storage_bucket": "dori-e3acb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115743573840:android:20788cfe7ac1fc0ffb8e55",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE0dNTWwxYOl3E6nGEOpn6ZUrULJg3K0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
